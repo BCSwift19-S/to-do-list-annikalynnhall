@@ -12,6 +12,7 @@
 		9AE4D0C322109C2B007599ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AE4D0C122109C2B007599ED /* Main.storyboard */; };
 		9AE4D0C522109C2C007599ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AE4D0C422109C2C007599ED /* Assets.xcassets */; };
 		9AE4D0C822109C2C007599ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AE4D0C622109C2C007599ED /* LaunchScreen.storyboard */; };
+		9AE4D0D02210A17A007599ED /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE4D0CF2210A17A007599ED /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9AE4D0C422109C2C007599ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AE4D0C722109C2C007599ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AE4D0C922109C2C007599ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AE4D0CF2210A17A007599ED /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9AE4D0BD22109C2B007599ED /* AppDelegate.swift */,
 				9AE4D0BF22109C2B007599ED /* ViewController.swift */,
 				9AE4D0C122109C2B007599ED /* Main.storyboard */,
+				9AE4D0CF2210A17A007599ED /* DetailViewController.swift */,
 				9AE4D0C422109C2C007599ED /* Assets.xcassets */,
 				9AE4D0C622109C2C007599ED /* LaunchScreen.storyboard */,
 				9AE4D0C922109C2C007599ED /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AE4D0D02210A17A007599ED /* DetailViewController.swift in Sources */,
 				9AE4D0C022109C2B007599ED /* ViewController.swift in Sources */,
 				9AE4D0BE22109C2B007599ED /* AppDelegate.swift in Sources */,
 			);
